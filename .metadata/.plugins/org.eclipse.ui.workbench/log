@@ -1,0 +1,293 @@
+!SESSION 2020-02-19 14:10:20.869 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=11.0.6
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 14:14:26.519
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 14:14:26.558
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.ui.navigator 4 0 2020-02-19 14:15:19.184
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "src/main/java [in lambda-java-example]
+  <default> (not open)
+  example (not open)".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
+
+!ENTRY org.eclipse.ui.navigator 4 0 2020-02-19 14:15:19.217
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "src/main/java [in lambda-java-example]
+  <default> (not open)
+  example (...)".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 14:15:19.373
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 14:15:19.389
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 14:15:20.417
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 14:15:20.421
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 14:16:44.243
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 14:16:44.249
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 14:16:45.640
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 14:16:45.643
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 14:16:47.302
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 14:16:47.304
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 15:30:06.404
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 15:30:06.409
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 15:39:52.299
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 15:39:52.302
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 15:41:13.378
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 15:41:13.386
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2020-02-19 17:24:41.346 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=11.0.6
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 17:29:52.480
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 17:29:52.490
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 17:34:43.112
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 17:34:43.133
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 17:47:14.235
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 17:47:14.240
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 17:48:41.149
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 17:48:41.155
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 17:48:50.239
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 17:48:50.255
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 17:49:06.801
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 17:49:06.804
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 17:50:13.602
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-02-19 17:50:13.605
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.ui.navigator 4 0 2020-02-19 17:59:08.215
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "src [in test_project]
+  <default> (not open)
+  test_project (not open)".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
+
+!ENTRY org.eclipse.ui.navigator 4 0 2020-02-19 17:59:08.229
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "src [in test_project]
+  <default> (not open)
+  test_project (...)".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2020-02-19 21:48:53.946
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2020-02-19 22:08:22.119
+!MESSAGE Connection to http://eclipse.c3sl.ufpr.br/releases/2019-12/201912181000/plugins/org.eclipse.dstore.core_4.5.100.201901312252.jar failed on Connect to eclipse.c3sl.ufpr.br:80 [eclipse.c3sl.ufpr.br/2801:82:80ff:8000:0:0:0:c] failed: Network is unreachable (connect failed). Retry attempt 0 started
+!STACK 0
+org.apache.http.conn.HttpHostConnectException: Connect to eclipse.c3sl.ufpr.br:80 [eclipse.c3sl.ufpr.br/2801:82:80ff:8000:0:0:0:c] failed: Network is unreachable (connect failed)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:159)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.net.ConnectException: Network is unreachable (connect failed)
+	at java.base/java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403)
+	at java.base/java.net.Socket.connect(Socket.java:609)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 13 more
+
+!ENTRY org.eclipse.equinox.p2.engine 4 4 2020-02-19 22:08:27.050
+!MESSAGE An error occurred while collecting items to be installed
+!SUBENTRY 1 org.eclipse.equinox.p2.engine 4 0 2020-02-19 22:08:27.050
+!MESSAGE session context was:(profile=_home_vino_eclipse_jee-2019-12_eclipse, phase=org.eclipse.equinox.internal.p2.engine.phases.Collect, operand=, action=).
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.mylyn.commons.core,3.25.0.v20190131-2250
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.mylyn.commons.notifications.core,1.17.0.v20180628-1730
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.mylyn.commons.notifications.feed,1.17.0.v20190115-0848
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.mylyn.commons.notifications.ui,1.17.0.v20180628-1730
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.mylyn.commons.screenshots,3.25.0.v20180628-1730
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.mylyn.commons.ui,3.25.0.v20180706-1510
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.mylyn.commons.workbench,3.25.0.v20180628-1730
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.mylyn.commons,3.25.0.v20190131-2250
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.mylyn.commons.notifications,1.17.0.v20190115-0848
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.rse.subsystems.terminals.core,4.5.100.201901312252
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.rse.subsystems.terminals.ssh,4.5.100.201901312252
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.rse.terminals.ui,4.5.100.201901312252
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.tm.terminal.view.ui.rse,4.5.100.201901312304
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.ide.eclipse.archives.core,3.6.202.v20181011-1445
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.jboss.ide.eclipse.archives.feature,3.6.202.v20181011-1445
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.ide.eclipse.archives.jdt.integration,3.6.202.v20181011-1445
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.ide.eclipse.archives.ui,3.6.202.v20181011-1445
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.ide.eclipse.archives.webtools,3.8.0.v20190918-0949
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.jboss.ide.eclipse.as.archives.integration.feature,3.8.0.v20191021-1304
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.ide.eclipse.as.classpath.core,3.8.0.v20190918-0949
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.ide.eclipse.as.classpath.ui,3.8.0.v20190715-1852
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.ide.eclipse.as.core,3.8.0.v20191015-1732
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.ide.eclipse.as.dmr,3.8.0.v20190715-1852
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.ide.eclipse.as.doc.user,3.8.0.v20190715-1852
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.jboss.ide.eclipse.as.feature,3.8.0.v20191021-1304
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.ide.eclipse.as.jmx.integration,3.8.0.v20190715-1852
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.jboss.ide.eclipse.as.jmx.integration.feature,3.8.0.v20191021-1304
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.ide.eclipse.as.management.as7,3.8.0.v20190715-1852
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.ide.eclipse.as.management.core,3.8.0.v20190715-1852
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.ide.eclipse.as.management.eap61plus,3.8.0.v20190715-1852
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.ide.eclipse.as.management.wf11,3.8.0.v20190715-1852
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.ide.eclipse.as.management.wildfly9,3.8.0.v20190715-1852
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.ide.eclipse.as.rse.core,3.8.0.v20190918-0949
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.ide.eclipse.as.rse.ui,3.8.0.v20190918-0949
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.jboss.ide.eclipse.as.server.rse.integration.feature,3.8.0.v20190918-0949
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.jboss.ide.eclipse.as.serverAdapter.wtp.feature,3.8.0.v20191021-1304
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.ide.eclipse.as.ui,3.8.0.v20190918-0949
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.ide.eclipse.as.ui.mbeans,3.8.0.v20190715-1852
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.ide.eclipse.as.wtp.core,3.8.0.v20191021-1304
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.ide.eclipse.as.wtp.ui,3.8.0.v20190715-1852
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.tools.archives.scanner,3.6.202.v20181011-1445
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.jboss.tools.archives.scanner.feature,3.6.202.v20181011-1445
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.tools.as.catalog,3.8.0.v20191015-1732
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.050
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.tools.as.runtimes.integration,3.8.0.v20190918-0949
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.051
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.tools.common.jdt.debug,3.11.0.v20190403-0927
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.051
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.tools.common.jdt.debug.ui,3.11.0.v20190403-0927
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.051
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.tools.foundation.checkup,1.5.4.v20190704-1304
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.051
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.tools.foundation.core,1.5.4.Final-v20190930-1526-B3806
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.051
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.tools.foundation.ui,1.5.4.v20190704-1304
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.051
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.tools.jmx.core,1.10.6.v20181011-1445
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.051
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.jboss.tools.jmx.feature,1.10.6.v20190328-1433
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.051
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.tools.jmx.jolokia,1.10.6.v20181011-1445
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.051
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.tools.jmx.jvmmonitor.core,1.10.6.v20181011-1445
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.051
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.tools.jmx.jvmmonitor.tools,1.10.6.v20190328-1433
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.051
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.tools.jmx.jvmmonitor.ui,1.10.6.v20190328-1433
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.051
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.tools.jmx.local,1.10.6.v20181011-1445
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.051
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.tools.jmx.ui,1.10.6.v20181011-1445
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.051
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.tools.runtime.core,3.5.0.v20190927-2050
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.051
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.jboss.tools.runtime.core.feature,3.5.0.v20190927-2050
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.051
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.tools.runtime.ui,3.5.0.v20190927-2050
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.051
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.tools.stacks.core,1.4.102.v20181101-1129
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.051
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.jboss.tools.stacks.core.feature,1.4.102.v20181101-1129
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-02-19 22:08:27.051
+!MESSAGE No repository found containing: osgi.bundle,org.jboss.tools.usage,2.2.202.v20181101-1129

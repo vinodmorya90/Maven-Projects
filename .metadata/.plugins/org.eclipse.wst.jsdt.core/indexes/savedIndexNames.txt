@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/home/vino/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1427557601.index
+2945457693.index
+2434608336.index
+2507173176.index
+851675531.index

@@ -1,0 +1,13 @@
+package example;
+import java.util.Scanner;
+public class Hello
+  {
+    Scanner tastatur = new Scanner(System.in);
+    double NOK = 1.0;
+    double EUR = 9.34; 
+    double USD = 8.46; 
+
+ public static void Test(String args[]){
+     System.out.println("");
+  }
+}
